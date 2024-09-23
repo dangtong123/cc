@@ -1,0 +1,5 @@
+run = "cargo run"
+language = "python"
+
+[debugger]
+program = "main.py"
